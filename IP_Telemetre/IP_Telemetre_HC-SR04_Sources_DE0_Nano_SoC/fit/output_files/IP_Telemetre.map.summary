@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Wed Jan 30 01:37:30 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : IP_Telemetre
+Top-level Entity Name : telemetre_us_HC_SR04
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 62
+Total pins : 30
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

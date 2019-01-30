@@ -1,0 +1,19 @@
+
+State Machine - |Radar|telemetre_us_HC_SR04:U1|State
+Name State.E8 State.E7 State.E6 State.E5 State.E4 State.E3 State.E2 State.E1 State.E0 
+State.E0 0 0 0 0 0 0 0 0 0 
+State.E1 0 0 0 0 0 0 0 1 1 
+State.E2 0 0 0 0 0 0 1 0 1 
+State.E3 0 0 0 0 0 1 0 0 1 
+State.E4 0 0 0 0 1 0 0 0 1 
+State.E5 0 0 0 1 0 0 0 0 1 
+State.E6 0 0 1 0 0 0 0 0 1 
+State.E7 0 1 0 0 0 0 0 0 1 
+State.E8 1 0 0 0 0 0 0 0 1 
+
+State Machine - |Radar|DF9GMS:U0|State
+Name State.E3 State.E2 State.E1 State.E0 
+State.E0 0 0 0 0 
+State.E1 0 0 1 1 
+State.E2 0 1 0 1 
+State.E3 1 0 0 1 

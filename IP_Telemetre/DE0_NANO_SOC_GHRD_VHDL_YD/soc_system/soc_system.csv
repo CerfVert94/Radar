@@ -1,0 +1,38 @@
+# system info soc_system on 2019.01.30.00:35:15
+system_info:
+name,value
+DEVICE,5CSEMA4U23C6
+DEVICE_FAMILY,Cyclone V
+GENERATION_ID,1548804845
+#
+#
+# Files generated for soc_system on 2019.01.30.00:35:15
+files:
+filepath,kind,attributes,module,is_top
+simulation/soc_system.vhd,VHDL,,soc_system,true
+simulation/soc_system_rst_controller.vhd,VHDL,,soc_system,false
+simulation/soc_system_rst_controller_001.vhd,VHDL,,soc_system,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+soc_system.IP_Telemetre_HC_SR04_0,soc_system_IP_Telemetre_HC_SR04_0
+soc_system.button_pio,soc_system_button_pio
+soc_system.dipsw_pio,soc_system_dipsw_pio
+soc_system.fpga_only_master,soc_system_fpga_only_master
+soc_system.hps_only_master,soc_system_fpga_only_master
+soc_system.hps_0,soc_system_hps_0
+soc_system.intr_capturer_0,intr_capturer
+soc_system.jtag_uart,soc_system_jtag_uart
+soc_system.led_pio,soc_system_led_pio
+soc_system.onchip_memory2_0,soc_system_onchip_memory2_0
+soc_system.sysid_qsys,soc_system_sysid_qsys
+soc_system.mm_interconnect_0,soc_system_mm_interconnect_0
+soc_system.mm_interconnect_1,soc_system_mm_interconnect_1
+soc_system.irq_mapper,soc_system_irq_mapper
+soc_system.irq_mapper_002,soc_system_irq_mapper
+soc_system.irq_mapper_001,soc_system_irq_mapper_001
+soc_system.rst_controller,altera_reset_controller
+soc_system.rst_controller_001,altera_reset_controller
+soc_system.rst_controller,altera_reset_controller
+soc_system.rst_controller_001,altera_reset_controller

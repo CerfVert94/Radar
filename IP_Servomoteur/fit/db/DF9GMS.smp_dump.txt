@@ -1,0 +1,7 @@
+
+State Machine - |DF9GMS|State
+Name State.E3 State.E2 State.E1 State.E0 
+State.E0 0 0 0 0 
+State.E1 0 0 1 1 
+State.E2 0 1 0 1 
+State.E3 1 0 0 1 
